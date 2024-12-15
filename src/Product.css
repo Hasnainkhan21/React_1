@@ -1,0 +1,14 @@
+ .Product {
+    border: 1px solid rgb(0, 0, 0);
+    width: 30vh; 
+    height: auto;
+    margin-bottom: 10px;
+    left: -50%;
+    top: 30%;
+    border-radius: 15px;
+    padding: 0 10px 0 10px;
+   
+  }
+  b{
+    color: red;
+  }
